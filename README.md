@@ -19,9 +19,7 @@ Currently studying at **Peter the Great St. Petersburg Polytechnic University (S
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" title="MySQL"/> <b>MySQL</b></code> &nbsp;
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" title="PostgreSQL"/> <b>PostgreSQL</b></code> &nbsp;
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="24" title="Ubuntu"/> <b>Ubuntu</b></code> &nbsp;
-  <div>
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" title="Git"/> <b>Git</b></code>
-  </div>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" title="Git"/> <b>Git</b></code>
 </p>
 ## 💻 LeetCode Progress
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nyassky?theme=light&font=baloo)](https://leetcode.com/nyassky/)
