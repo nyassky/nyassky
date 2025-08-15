@@ -9,7 +9,6 @@ Currently studying at **Peter the Great St. Petersburg Polytechnic University (S
 - **Email:** [ranis-vakhitov-work@yandex.ru](mailto:ranis-vakhitov-work@yandex.ru)  
 
 ## 🛠 Tech Stack
-## 🛠 Tech Stack
 <p align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/> <b>Python</b></code> &nbsp;
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" title="C++"/> <b>C++</b></code> &nbsp;
