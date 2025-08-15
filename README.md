@@ -23,6 +23,7 @@ Currently studying at **Peter the Great St. Petersburg Polytechnic University (S
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" title="Git"/> <b>Git</b></code>
   </div>
 </p>
+## 💻 LeetCode Progress
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nyassky?theme=light&font=baloo)](https://leetcode.com/nyassky/)
 <!--
 **nyassky/nyassky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
