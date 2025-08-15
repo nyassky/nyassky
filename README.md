@@ -23,7 +23,7 @@ Currently studying at **Peter the Great St. Petersburg Polytechnic University (S
 </p>
 
 ## 💻 LeetCode Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nyassky?theme=light&font=baloo)](https://leetcode.com/nyassky/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nyassky?theme=dark&font=baloo)](https://leetcode.com/nyassky/)
 <!--
 **nyassky/nyassky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
