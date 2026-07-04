@@ -14,7 +14,11 @@ Here are the technologies and tools I actively use and learn:
 * **Tools & Environment:** Git, Jupyter Notebook, Linux
 
 ---
-
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyassky&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
+--
 ### 📫 How to reach me:
 - **Telegram:** [@ran1s13](https://t.me/ran1s13)  
 - **Email:** [ranis-vakhitov-work@yandex.ru](mailto:ranis-vakhitov-work@yandex.ru)
