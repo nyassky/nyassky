@@ -13,9 +13,6 @@ Here are the technologies and tools I actively use and learn:
 * **Databases:** PostgreSQL, Oracle DB
 * **Tools & Environment:** Git, Jupyter Notebook, Linux
 
-## 📈 GitHub Stats
-![Ranis's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyassky&show_icons=true&theme=transparent)
-
 ---
 
 ### 📫 How to reach me:
