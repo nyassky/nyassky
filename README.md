@@ -7,7 +7,7 @@ Currently studying at **Peter the Great St. Petersburg Polytechnic University (S
 ## 🛠️ Technical Stack
 Here are the technologies and tools I actively use and learn:
 
-* **Programming Languages:** Python, SQL (PL/SQL)
+* **Programming Languages:** Python, SQL, Oracle PL/SQL
 * **Machine Learning & Data Science:** PyTorch, Scikit-learn, Pandas, NumPy
 * **Data Visualization & BI:** PowerBI, Matplotlib, Seaborn
 * **Databases:** PostgreSQL, Oracle DB
